@@ -1,0 +1,20 @@
+[LEARNING PYTHON - TABLE OF CONTENTS]
+
+[BASIC]
+| output & input
+| variables
+| math
+| conditions
+| colections
+| loops
+| functions
+| try
+| modules
+| files
+| classes
+
+[INTERMEDIATE]
+|
+
+[ADVANCED]
+| 
