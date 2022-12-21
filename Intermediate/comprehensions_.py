@@ -1,7 +1,7 @@
 print("Intermediate things in python\n============================================")
 
-# Comprehensions
-print("\n[COMPREHENSIONS]")
+# List comprehensions
+print("\n[LIST COMPREHENSIONS]")
 
 nums = [i for i in range(15)]
 print("Generated nums <0; 15):", nums)
@@ -11,3 +11,7 @@ print("Even nums <0; 30)", even)
 
 nested_list = [[i for i in range(4)] for _ in range(4)]
 print("Nested list:", nested_list)
+
+
+# Dict comprehensions
+print("\n[DICT COMPREHENSIONS]")
