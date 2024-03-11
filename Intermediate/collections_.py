@@ -1,1 +1,0 @@
-print("Intermediate things in python\n============================================")

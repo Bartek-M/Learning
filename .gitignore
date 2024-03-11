@@ -1,1 +1,4 @@
-testing.py
+.vscode/
+__pycache__/
+*exe
+test.*

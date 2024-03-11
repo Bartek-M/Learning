@@ -41,3 +41,7 @@ print("\n\n[DICTIONARIES]")
 
 # Tuples
 print("\n\n[TUPLES]")
+
+
+# Sets
+print("\n\n[SETS]")
