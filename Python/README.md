@@ -8,7 +8,6 @@
 python <file_name>.py
 ```
 
-
 ## Topics
 ### BASIC
 - output & input
