@@ -1,0 +1,9 @@
+1. adduser [name] - create new user
+
+2. cat /etc/passwd - user informations
+
+3. cat /etc/shadow - user hashed passwords
+
+4. su [name] - change user
+
+5. whoami - current user

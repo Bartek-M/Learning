@@ -1,0 +1,13 @@
+1. man [name] - manual for specific command
+
+2. clear - clears the terminal
+
+3. sudo -s - open admin only mode
+
+4. sudo apt install [name] - install something
+
+5. sudo apt update && sudo apt upgrade - update and upgrade system
+
+6. history - history of the terminal (history | grep something - look for specifiic word in history)
+
+https://www.youtube.com/watch?v=3Kq1MIfTWCE 
