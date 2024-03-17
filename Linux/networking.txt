@@ -1,0 +1,23 @@
+ifconfig 
+|- plug internet information
+
+iwconfig 
+|- wireless internet information
+
+ping [ip] 
+|- ask specific ip
+
+arp -a 
+|- all devices connected to internet with you
+
+nmap [your local ip]/24 
+|- all devices in your network
+
+netstat -ano 
+|- all opened ports
+
+route 
+|- ip routing table
+
+ssh [host]
+|- connect via ssh

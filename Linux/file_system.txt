@@ -1,0 +1,44 @@
+pwd
+|- print working directory
+
+cd [name]
+|- change directory (go back: cd ..)
+
+ls [name or leave blanc for list of current directory] 
+|- list of items in directory (show everything with hidden: ls -la)
+
+mkdir/rmdir [name] 
+|- create or remove directory
+
+> [name] / touch [name] 
+|- create new file (create file with short text in it: echo "short text" > file.txt; append to file: echo "text" >> file.txt)
+
+cp [name] [new place] 
+|- copy files or directory and past them in other places
+
+rm [name] 
+|- remove file 
+
+mv/mvdir [name] [new place] 
+|- move file or directory to other place
+
+locate [name] 
+|- lacet specific file or directory
+
+updatedb 
+|- updates file system database
+
+ranger 
+|- mini file manager (if not installed: sudo apt install ranger)
+
+nano [name] 
+|- opens nano editor to edit specific file
+
+vi [name] 
+|- opens vim editor to edit specific file
+
+cat [name] 
+|- shows file content 
+
+scp [file_name] [dest_location]
+|- secure copy protocol

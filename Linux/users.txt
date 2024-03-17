@@ -1,0 +1,14 @@
+adduser [name] 
+|- create new user
+
+cat /etc/passwd 
+|- user informations
+
+cat /etc/shadow 
+|- user hashed passwords
+
+su [name] 
+|- change user
+
+whoami 
+|- current user
